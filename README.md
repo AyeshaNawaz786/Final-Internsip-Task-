@@ -4,7 +4,6 @@ Hi! I'm Ayesha, a CS student passionate about Machine Learning and AI.
 This repository contains notebooks and projects I worked on during my 
 internship and semester coursework.
 
-Email:  12ayeshanawaz08@gmail.com
 
 ---
 
