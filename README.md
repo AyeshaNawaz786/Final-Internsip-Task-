@@ -29,6 +29,5 @@ Python, TensorFlow, Keras, scikit-learn, Pandas, NumPy
 
 ---
 
-## Connect
-📧 12ayeshanawaz08@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/ayesha-nawaz-94446141a/)
+
+💼 [LinkedIn](https://www.linkedin.com/in/ayesha-nawaz-ml)
